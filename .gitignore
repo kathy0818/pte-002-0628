@@ -9,4 +9,7 @@
 build/paper/preview_*.pdf
 build/paper/img/
 
+# build/zoom = 读图时从原卷素材裁切的临时放大图，可随时重生成，不入库
+build/zoom/
+
 # 成品 PDF（整理卷/）要入库，不在此忽略
