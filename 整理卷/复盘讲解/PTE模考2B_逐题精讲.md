@@ -42,11 +42,13 @@
 题型：SST(Q1) · MCM-L(Q2) · FIB-L(Q3-5) · MCS-L(Q6) · SMW(Q7-8) · HIW(Q9-11) · WFD(Q12-15)。
 
 ## Q1 · SST(C) #5 Preserving Biodiversity —— 8.9/10 ✅(没满)
-- **作答**："…protect the **environmet**(→environment)… many **food**(→foods) like rice…"（约 25 词）
+- **原文主旨**（001 版已由考生补入录音原文）：**生物多样性(biodiversity)** 对生态系统稳定与人类生存至关重要；其丧失会动摇整个生态系统（如蜂群↓→授粉→粮食作物）；物种内的**遗传多样性**是适应气候变化的关键（如水稻更耐候）；保护它是人类福祉的必需，靠栖息地保护/可持续农业/应对气候变化。
+- **作答**："In the university, we should save food and protect the **environmet**(→environment)… Climate change will impact human beings, and many **food**(→foods) like rice…"（约 25 词）
 - **评分**：Content 2 · Form 2 · **Grammar 1.5** · Spelling 2 · **Vocab 1.4** = 8.9。
+- **⚠️ 拿到原文后的关键复盘**：你的概述**几乎没抓住主旨词 biodiversity**，只摘了边缘信息（save food / environment / climate change / rice）。平台这次 Content 仍给 2/2（偏宽松），但**真考应以主旨为核心**——开头就点 "The lecture discusses the importance of preserving biodiversity…"，再带 2–3 个支撑点。
 - **失分**：①`many food`→`many foods`（many+可数复数）②用词口语化（save food / and so on）③**仅 25 词，真考 SST Form 要 50–70 词**（本次侥幸，下次危险）。
-- **通法**：骨架先搭（主旨+2-3 支撑）→ 模板开头 → 50–70 词一段 → 回读查单复数。
-- 🧠 **50–70 词、骨架先搭、回读查单复数。**
+- **通法**：抓主旨句(biodiversity is essential…) + 2–3 支撑(loss→destabilize / genetic diversity / must protect) → 模板开头 → 50–70 词一段 → 回读查单复数。
+- 🧠 **先抓主旨词(biodiversity)，再 50–70 词、骨架先搭、回读查单复数。**
 
 ## Q2 · MCM-L #119 Weight Gain —— 2/2 ✅满分
 - **题**：已婚者为何更易增重？**正确 A、C；你 A、C。**
